@@ -2,6 +2,9 @@ Title: Proceedings of the Python in Science Conferences
 URL: proceedings/index.html
 Save_as: proceedings/index.html
 
+**[EuroSciPy 2014](http://arxiv.org/abs/1412.7030v1)**
+ *7th European Conference on Python in Science (EuroSciPy 2014) - Cambridge, UK (August 27 - 30, 2014)*
+
 **[EuroSciPy 2013](http://arxiv.org/html/1405.0166v1)**
  *6th European Conference on Python in Science (EuroSciPy 2013) - Brussels, Belgium (August 21 - 25, 2013)*
 
