@@ -61,6 +61,6 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 rsync: publish
-	rsync -e "ssh -i $(HOME)/.ssh/conference.scipy.org.pem" -a output/ conference.scipy.org:/srv/www/conference/output
+	rsync -rvz -e ssh output/ conference.scipy.org:/home/scipy/site/conference/ 
 
 .PHONY: html help clean regenerate serve devserver publish rsync
