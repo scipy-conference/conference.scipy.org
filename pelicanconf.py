@@ -11,6 +11,7 @@ SITEURL = ''
 TIMEZONE = 'US/Central'
 DEFAULT_LANG = u'en'
 
+USE_FOLDER_AS_CATEGORY = True
 
 # Set the article URL
 ARTICLE_URL = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
