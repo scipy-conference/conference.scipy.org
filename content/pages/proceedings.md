@@ -18,10 +18,10 @@ Save_as: proceedings/index.html
  *12th Python in Science Conference - Austin, Texas (June 24 - 29, 2013)*
 
 **[SciPy 2012](http://conference.scipy.org/proceedings/scipy2012)**
- *11th python in science conference - Austin, Texas (July 16-21, 2012)*
+ *11th Python in Science Conference - Austin, Texas (July 16-21, 2012)*
 
 **[SciPy 2011](http://conference.scipy.org/proceedings/scipy2011)**
- *10th python in science conference - Austin, Texas (july 11 - 16, 2011)*
+ *10th Python in Science Conference - Austin, Texas (July 11 - 16, 2011)*
 
 **[SciPy 2010](http://conference.scipy.org/proceedings/scipy2010)**
  *9th Python in Science Conference - Austin, Texas (June 28 - 30, 2010)*
