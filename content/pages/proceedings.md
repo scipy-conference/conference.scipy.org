@@ -2,6 +2,9 @@ Title: Proceedings of the Python in Science Conferences
 URL: proceedings/index.html
 Save_as: proceedings/index.html
 
+**[SciPy 2016](http://conference.scipy.org/proceedings/scipy2016)**
+ *15th Python in Science Conference - Austin, Texas (July 11 - 17, 2016)*
+
 **[SciPy 2015](http://conference.scipy.org/proceedings/scipy2015)**
  *14th Python in Science Conference - Austin, Texas (July 6 - 12, 2015)*
 
