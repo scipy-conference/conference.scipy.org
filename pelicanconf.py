@@ -50,7 +50,7 @@ TRANSLATION_FEED_ATOM = None
 
 DEFAULT_PAGINATION = 5
 
-STATIC_PATHS = ['images', 'pdf', 'CNAME']
+STATIC_PATHS = ['images', 'pdf', 'CNAME', 'proceedings']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
