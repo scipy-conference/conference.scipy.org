@@ -9,6 +9,7 @@ Save_as: past.html
 ## 2016
 * [SciPy 2016](http://scipy2016.scipy.org/)
 * [EuroSciPy 2016](https://www.euroscipy.org/2016/)
+* [Scipy Latin America 2016](http://conf.scipyla.org)
 
 ## 2015
 * [SciPy 2015](http://conference.scipy.org/scipy2015/)
