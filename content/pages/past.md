@@ -2,6 +2,15 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+## 2017
+* [SciPy 2017](http://scipy2017.scipy.org/)
+* [EuroSciPy 2017](https://www.euroscipy.org/2017/)
+
+## 2016
+* [SciPy 2016](http://scipy2016.scipy.org/)
+* [EuroSciPy 2016](https://www.euroscipy.org/2016/)
+* [Scipy Latin America 2016](http://conf.scipyla.org)
+
 ## 2015
 * [SciPy 2015](http://conference.scipy.org/scipy2015/)
 * [EuroSciPy 2015](https://www.euroscipy.org/2015/)
