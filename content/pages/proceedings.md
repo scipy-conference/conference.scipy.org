@@ -2,8 +2,11 @@ Title: Proceedings of the Python in Science Conferences
 URL: proceedings/index.html
 Save_as: proceedings/index.html
 
+**ISSN: 2575-9752**
+**[https://doi.org/10.25080/issn.2575-9752](https://doi.org/10.25080/issn.2575-9752)**
+
 **[SciPy 2018](http://conference.scipy.org/proceedings/scipy2018)**
- *16th Python in Science Conference - Austin, Texas (July 9 - 15, 2018)*
+ *17th Python in Science Conference - Austin, Texas (July 9 - 15, 2018)*
 
 **[SciPy 2017](http://conference.scipy.org/proceedings/scipy2017)**
  *16th Python in Science Conference - Austin, Texas (July 10 - 16, 2017)*
