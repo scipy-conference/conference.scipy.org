@@ -1,6 +1,10 @@
-Title: Past Conferences 
+Title: Past Conferences
 URL: past.html
 Save_as: past.html
+
+## 2018
+* [SciPy 2018](http://scipy2018.scipy.org/)
+* [EuroSciPy 2018](https://www.euroscipy.org/2018/)
 
 ## 2017
 * [SciPy 2017](http://scipy2017.scipy.org/)
@@ -27,23 +31,23 @@ Save_as: past.html
 
 ## 2012
 * [SciPy 2012](http://conference.scipy.org/scipy2012/)
-* [EuroSciPy 2012](http://www.euroscipy.org/conference/euroscipy2012) 
-* [SciPy.in 2012](http://scipy.in/scipyin/2012/) 
+* [EuroSciPy 2012](http://www.euroscipy.org/conference/euroscipy2012)
+* [SciPy.in 2012](http://scipy.in/scipyin/2012/)
 
 ## 2011
-* [SciPy 2011](http://conference.scipy.org/scipy2011/) 
-* [EuroSciPy 2011](http://www.euroscipy.org/conference/euroscipy2011) 
-* [SciPy.in 2011](http://scipy.in/scipyin/2011/) 
+* [SciPy 2011](http://conference.scipy.org/scipy2011/)
+* [EuroSciPy 2011](http://www.euroscipy.org/conference/euroscipy2011)
+* [SciPy.in 2011](http://scipy.in/scipyin/2011/)
 
 ## 2010
-* [SciPy 2010](http://conference.scipy.org/scipy2010/) 
-* [EuroSciPy 2010](http://www.euroscipy.org/conference/euroscipy2010) 
-* [SciPy.in 2010](http://scipy.in/scipyin/2010/) 
+* [SciPy 2010](http://conference.scipy.org/scipy2010/)
+* [EuroSciPy 2010](http://www.euroscipy.org/conference/euroscipy2010)
+* [SciPy.in 2010](http://scipy.in/scipyin/2010/)
 
 ## 2009
-* [SciPy 2009](http://conference.scipy.org/SciPy2009/) 
-* [EuroSciPy 2009](http://www.euroscipy.org/conference/euroscipy2009) 
+* [SciPy 2009](http://conference.scipy.org/SciPy2009/)
+* [EuroSciPy 2009](http://www.euroscipy.org/conference/euroscipy2009)
 
 ## 2008
-* [SciPy 2008](http://conference.scipy.org/SciPy2008/) 
-* [EuroSciPy 2008](http://www.euroscipy.org/conference/869) 
+* [SciPy 2008](http://conference.scipy.org/SciPy2008/)
+* [EuroSciPy 2008](http://www.euroscipy.org/conference/869)
