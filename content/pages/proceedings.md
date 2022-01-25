@@ -5,6 +5,15 @@ Save_as: proceedings/index.html
 **ISSN: 2575-9752**
 **[https://doi.org/10.25080/issn.2575-9752](https://doi.org/10.25080/issn.2575-9752)**
 
+**[SciPy 2021](http://conference.scipy.org/proceedings/scipy2021)**
+ *20th Python in Science Conference - Austin, Texas (July 12 - 18, 2021)*
+
+**[SciPy 2020](http://conference.scipy.org/proceedings/scipy2020)**
+ *19th Python in Science Conference - Austin, Texas (July 6 - 12, 2020)*
+
+**[SciPy 2019](http://conference.scipy.org/proceedings/scipy2019)**
+ *18th Python in Science Conference - Austin, Texas (July 8 - 14, 2019)*
+
 **[SciPy 2018](http://conference.scipy.org/proceedings/scipy2018)**
  *17th Python in Science Conference - Austin, Texas (July 9 - 15, 2018)*
 
