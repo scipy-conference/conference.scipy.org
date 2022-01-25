@@ -2,6 +2,10 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+## 2019
+* [SciPy Japan 2019](https://www.scipyjapan2019.scipy.org/)
+* [SciPy 2019](https://www.scipy2019.scipy.org/)
+
 ## 2018
 * [SciPy 2018](http://scipy2018.scipy.org/)
 * [EuroSciPy 2018](https://www.euroscipy.org/2018/)
