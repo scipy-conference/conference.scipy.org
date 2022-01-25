@@ -2,8 +2,15 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+## 2021
+* [SciPy 2021](https://www.scipy2021.scipy.org/)
+
+## 2020
+* [SciPy Japan 2020](https://www.scipyjapan.scipy.org/)
+* [SciPy 2020](https://www.scipy2020.scipy.org/)
+
 ## 2019
-* [SciPy Japan 2019](https://www.scipyjapan2019.scipy.org/)
+* [SciPy Japan 2019](https://www.scipyjapan.scipy.org/)
 * [SciPy 2019](https://www.scipy2019.scipy.org/)
 
 ## 2018
