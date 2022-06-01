@@ -61,6 +61,6 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 rsync: publish
-	rsync -rvz -e ssh output/ conference.scipy.org:/home/scipy/site/conference/ 
+	aws s3 sync output/ s3://conference.scipy.org
 
 .PHONY: html help clean regenerate serve devserver publish rsync
