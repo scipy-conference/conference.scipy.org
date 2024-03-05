@@ -1,0 +1,6 @@
+[project]
+name = "conference_scipy"
+classifiers = ["Private :: Do Not Upload"]
+version = "1"
+dependencies = ["markdown", "pelican"]
+
