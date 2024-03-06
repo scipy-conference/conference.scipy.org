@@ -38,7 +38,7 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: make install
+        run: make init
 
       - name: Build website
         run: make clean && make publish
