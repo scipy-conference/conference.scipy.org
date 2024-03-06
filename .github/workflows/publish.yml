@@ -45,6 +45,6 @@ jobs:
             git config user.name "Automated"
             git config user.email "actions@users.noreply.github.com"
             timestamp=$(date -u +%FT%T%z)
-            ghp-import -m "Generate Pelican site ${timestamp}" --no-history --branch gh-pages  output
+            ghp-import -m "Generate Pelican site ${timestamp}" --no-history --cname 'conference.scipy.org' --branch gh-pages  output
             git push --force origin gh-pages
         
