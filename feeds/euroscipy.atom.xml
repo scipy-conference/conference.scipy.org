@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SciPy Conferences - EuroSciPy</title><link href="https://conference.scipy.org/" rel="alternate"></link><link href="https://conference.scipy.org/feeds/euroscipy.atom.xml" rel="self"></link><id>https://conference.scipy.org/</id><updated>2015-03-25T00:00:00-05:00</updated><entry><title>EuroSciPy 2015 call for presentations, posters and tutorials</title><link href="https://conference.scipy.org/news/2015/03/25/euroscipy-2015-call-for-presentations-posters-and-tutorials/" rel="alternate"></link><published>2015-03-25T00:00:00-05:00</published><updated>2015-03-25T00:00:00-05:00</updated><author><name>EuroSciPy &lt;euroscipy-org@python.org&gt;</name></author><id>tag:conference.scipy.org,2015-03-25:/news/2015/03/25/euroscipy-2015-call-for-presentations-posters-and-tutorials/</id><summary type="html">&lt;p&gt;EuroSciPy 2015 call&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;EuroScipy 2015, the annual conference on Python in science will take place in
+Cambridge, UK on 26-30 August 2015. The conference features two days of
+tutorials followed by two days of scientific talks &amp;amp; posters and an extra day
+dedicated to developer sprints. It is the major event in Europe in the field of
+technical/scientific computing within the Python ecosystem. Data scientists,
+analysts, quants, PhD's, scientists and students from more than 20 countries
+attended the conference last year.&lt;/p&gt;
+&lt;p&gt;The topics presented at EuroSciPy are very diverse, with a focus on advanced
+software engineering and original uses of Python and its scientific libraries,
+either in theoretical or experimental research, from both academia and the
+industry.&lt;/p&gt;
+&lt;p&gt;Submissions for posters, talks &amp;amp; tutorials (beginner and advanced) are welcome
+on our website
+&lt;a href="https://www.euroscipy.org/2015/"&gt;https://www.euroscipy.org/2015/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sprint proposals should be addressed directly to the organisation at
+euroscipy-org (at) python (dot) org&lt;/p&gt;
+&lt;h2&gt;Important dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mar 24, 2015  Call for talks, posters &amp;amp; tutorials&lt;/li&gt;
+&lt;li&gt;Apr 30, 2015  Talk and tutorials submission deadline&lt;/li&gt;
+&lt;li&gt;May 1, 2015   Registration opens&lt;/li&gt;
+&lt;li&gt;May 30, 2015  Final program announced&lt;/li&gt;
+&lt;li&gt;Jun 15, 2015  Early-bird registration ends&lt;/li&gt;
+&lt;li&gt;Aug 26-27, 2015   Tutorials&lt;/li&gt;
+&lt;li&gt;Aug 28-29, 2015   Main conference&lt;/li&gt;
+&lt;li&gt;Aug 30, 2015      Sprints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We look forward to an exciting conference and hope to see you in Cambridge&lt;/p&gt;
+&lt;p&gt;The EuroSciPy 2015 Team - &lt;a href="https://www.euroscipy.org/2015/"&gt;https://www.euroscipy.org/2015/&lt;/a&gt;&lt;/p&gt;</content><category term="EuroSciPy"></category></entry></feed>

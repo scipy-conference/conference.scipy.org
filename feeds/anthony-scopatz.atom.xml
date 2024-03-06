@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SciPy Conferences - Anthony Scopatz</title><link href="https://conference.scipy.org/" rel="alternate"></link><link href="https://conference.scipy.org/feeds/anthony-scopatz.atom.xml" rel="self"></link><id>https://conference.scipy.org/</id><updated>2014-07-31T00:00:00-05:00</updated><entry><title>SciPy2014 Debrief -- Survey Results</title><link href="https://conference.scipy.org/news/2014/07/31/scipy2014-debrief-survey-results/" rel="alternate"></link><published>2014-07-31T00:00:00-05:00</published><updated>2014-07-31T00:00:00-05:00</updated><author><name>Anthony Scopatz &lt;scopatz@gmail.com&gt;</name></author><id>tag:conference.scipy.org,2014-07-31:/news/2014/07/31/scipy2014-debrief-survey-results/</id><summary type="html">&lt;p&gt;SciPy2014 Survey Results&lt;/p&gt;</summary><content type="html">&lt;p&gt;SciPy 2014 was another quantum leap ahead for the size and breadth of 
+our conference. Like in past years, the organizers
+conducted an exit survey. The results are gushing, as you can see below. 
+The numbers here reflect the huge growth we as a community have seen from 
+about 200 people in 2012, to 350 people in 2013, to this year's 450 
+attendees.&lt;/p&gt;
+&lt;p&gt;A total of 142 of the 450 attendees (32%) responded in some form. Last year, 
+only 22% of the attendees responded. Of the responses this year 65% attended 
+for the first time, 28% have been to SciPy two to four times, and 7% 
+of us are old hats who have been to five or more SciPys! The following table
+shows how the respondents rated the various aspects of the conference.&lt;br&gt;
+All values are on a scale of 1 (lowest) to 5 (highest) with unanswered 
+questions masked out.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;Experience&lt;/th&gt;&lt;th&gt;Number of respondents&lt;/th&gt;&lt;th&gt;Average score&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Overall Conference Experience&lt;/td&gt;
+        &lt;td&gt;144&lt;/td&gt;
+        &lt;td&gt;4.54&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Tutorials &lt;/td&gt;
+        &lt;td&gt;84&lt;/td&gt;
+        &lt;td&gt;4.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;General Sessions&lt;/td&gt;
+        &lt;td&gt;142&lt;/td&gt;
+        &lt;td&gt;4.33&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Sprints&lt;/td&gt;
+        &lt;td&gt;72&lt;/td&gt;
+        &lt;td&gt;4.49&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;BOFs&lt;/td&gt;
+        &lt;td&gt;126&lt;/td&gt;
+        &lt;td&gt;4.04&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Overall Quality of the Poster Session&lt;/td&gt;
+        &lt;td&gt;106&lt;/td&gt;
+        &lt;td&gt;3.74&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Welcome Reception at Enthought on Monday Evening&lt;/td&gt;
+        &lt;td&gt;61&lt;/td&gt;
+        &lt;td&gt;4.39&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;SciPy Reception on Tuesday Evening&lt;/td&gt;
+        &lt;td&gt;90&lt;/td&gt;
+        &lt;td&gt;4.19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Job Fair on Tuesday Evening &lt;/td&gt;
+        &lt;td&gt;56&lt;/td&gt;
+        &lt;td&gt;3.95&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Women in Scientific Computing Luncheon&lt;/td&gt;
+        &lt;td&gt;18&lt;/td&gt;
+        &lt;td&gt;4.22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Sprints Event at Scholz&amp;quot;s Friday Evening&lt;/td&gt;
+        &lt;td&gt;46&lt;/td&gt;
+        &lt;td&gt;4.35&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Key Notes: Lorena Barba&lt;/td&gt;
+        &lt;td&gt;135&lt;/td&gt;
+        &lt;td&gt;4.37&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Key Note: Nick Coghlan&lt;/td&gt;
+        &lt;td&gt;118&lt;/td&gt;
+        &lt;td&gt;3.73&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Key Note: Greg Wilson&lt;/td&gt;
+        &lt;td&gt;117&lt;/td&gt;
+        &lt;td&gt;4.69&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Scientific Computing in Education&lt;/td&gt;
+        &lt;td&gt;82&lt;/td&gt;
+        &lt;td&gt;4.28&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Geospatial Data in Science&lt;/td&gt;
+        &lt;td&gt;57&lt;/td&gt;
+        &lt;td&gt;4.22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Bioinformatics&lt;/td&gt;
+        &lt;td&gt;34&lt;/td&gt;
+        &lt;td&gt;3.94&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Astronomy and Astrophysics&lt;/td&gt;
+        &lt;td&gt;41&lt;/td&gt;
+        &lt;td&gt;4.27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Geophysics&lt;/td&gt;
+        &lt;td&gt;31&lt;/td&gt;
+        &lt;td&gt;3.97&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Engineering&lt;/td&gt;
+        &lt;td&gt;36&lt;/td&gt;
+        &lt;td&gt;3.89&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Computational Social Sciences&lt;/td&gt;
+        &lt;td&gt;52&lt;/td&gt;
+        &lt;td&gt;3.75&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mini Symposia: Vision, Visualization and Imaging&lt;/td&gt;
+        &lt;td&gt;78&lt;/td&gt;
+        &lt;td&gt;4.31&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;SciPy Conference registration: website&lt;/td&gt;
+        &lt;td&gt;135&lt;/td&gt;
+        &lt;td&gt;4.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Hotel registration: website:&lt;/td&gt;
+        &lt;td&gt;88&lt;/td&gt;
+        &lt;td&gt;4.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Conference information: website&lt;/td&gt;
+        &lt;td&gt;145&lt;/td&gt;
+        &lt;td&gt;4.05&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Submitting your poster&lt;/td&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td&gt;4.44&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Displaying your poster&lt;/td&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td&gt;4.43&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Do you plan to attend SciPy 2015?&lt;/td&gt;
+        &lt;td&gt;144&lt;/td&gt;
+        &lt;td&gt;87% yes&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Almost all scores are between 4 and 5 and the overall experience was
+an impressive 4.54! The lowest rating (poster session) was only 3.74. 
+Given our accelerating growth curve, it is a large concern of the organizers
+that we keep alive the spirit of community and working together as well as 
+the goal of talking about science and computing simultaneously. 
+Looking forward, 87% of responders plan on coming again next year. 
+Given these numbers, I think that we did a great job holding to our core values
+while expanding to a larger, more diverse group of people.&lt;/p&gt;
+&lt;p&gt;Naturally, the responders had some things to say that could not be 
+contained by a simple scale from one to five. Here are some parting 
+shots in the responser's own words:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"This was my first conference (EVER!) and it was so much fun!"&lt;/p&gt;
+&lt;p&gt;"I'm really happy with the conference this year. 2013 felt 
+ rushed and frantic, while this year felt full, but tractable."&lt;/p&gt;
+&lt;p&gt;"Can we keep it great while it grows bigger? That's the key question?"&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That said, is SciPy perfect? Of course not! There are still issues big and
+small that we can and will work on to further improve the SciPy experience 
+for everyone in 2015 and beyond. What the organizers prioritize is based on the 
+responses that we received from the survey. So in
+that spirit, we will be be releasing the anonymized results of the
+survey.  Feel free to look at them and come to your own conclusions.&lt;/p&gt;
+&lt;p&gt;Though improvements to SciPy are coming, you can always help reshape the 
+conference into your own image by volunteering. Please email 
+scipy-organizers AT scipy.org and let the other organizers know how you'd
+like to help out for next year. We'd truly love to have your help as SciPy 
+is a community driven conference.&lt;/p&gt;
+&lt;p&gt;Though I seem to say this every year, 2014 was an exceptional  year for SciPy.
+Thanks and congratulations are due to everyone: the sponsors, the organizers,
+and the attendees!&lt;/p&gt;</content><category term="SciPy"></category></entry><entry><title>SciPy2013 Debrief -- Survey Results</title><link href="https://conference.scipy.org/news/2013/10/28/scipy2013-debrief-survey-results/" rel="alternate"></link><published>2013-10-28T00:00:00-05:00</published><updated>2013-10-28T00:00:00-05:00</updated><author><name>Anthony Scopatz &lt;scopatz@gmail.com&gt;</name></author><id>tag:conference.scipy.org,2013-10-28:/news/2013/10/28/scipy2013-debrief-survey-results/</id><summary type="html">&lt;p&gt;SciPy2013 Survey Results&lt;/p&gt;</summary><content type="html">&lt;p&gt;Following our meteoric rise during SciPy 2013, the organizers
+conducted an exit survey and the results are rave!  These surveys are
+extraordinarily valuable to the organizers because they help us plan
+for the next year logistically (size, space, etc.) and
+programmatically (keynotes, tracks, etc).  They also let us know how
+we did as organizers, and give us opportunities for personal growth
+:).  But on to the numbers!&lt;/p&gt;
+&lt;p&gt;A total of 78 of 350 attendees (22%) responded in some form.  Of these
+68% had attended for the first time in 2013.  The following table
+shows how the respondents felt we measured up.  All values are on a
+scale of 1 (lowest) to 5 (highest) with unanswered questions masked
+out.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;Experience&lt;/th&gt;&lt;th&gt;Number of respondents rating&lt;/th&gt;&lt;th&gt;Average score&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Overall Conference Experience&lt;/td&gt;&lt;td&gt;77&lt;/td&gt;&lt;td&gt;4.66&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tutorials&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;4.44&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;General Sessions&lt;/td&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;4.42&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Sprints&lt;/td&gt;&lt;td&gt;47&lt;/td&gt;&lt;td&gt;4.19&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Overall Quality of the Poster Session&lt;/td&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;4.05&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Sprints Event at Scholz’s Friday Evening&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;4.36&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;SciPy Reception Wednesday Evening&lt;/td&gt;&lt;td&gt;55&lt;/td&gt;&lt;td&gt;4.31&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Key Note Addresses&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Fernando Perez&lt;/td&gt;&lt;td&gt;73&lt;/td&gt;&lt;td&gt;4.8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; William Schroeder&lt;/td&gt;&lt;td&gt;63&lt;/td&gt;&lt;td&gt;4.38&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Oliver Grisel&lt;/td&gt;&lt;td&gt;58&lt;/td&gt;&lt;td&gt;4.10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Domain Mini Symposia&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Bio-Informatics-Next Generation Sequencing&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;4.14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Astronomy and Astrophysics&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;4.08&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; GIS-Geospatial Data Analytics&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;4.24&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Medical Imaging&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;3.73&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Bio-Informatics-Frameworks&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;4.27&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;emsp;&amp;emsp; Meteorology, Climatology, Atmospherics and Oceanic Science&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;4.22&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Almost all scores are between 4 and 5 and the overall experiance was
+felt to be closer to 5 than to 4.  In many ways this reflects how the
+organizers felt about the conference at the time.  That the responders
+were mostly first timers makes this even more impressive and
+important. It means that we, as a community, have done an excellent
+job of welcoming newcomers.&lt;/p&gt;
+&lt;p&gt;Looking forward, 85% of responders plan on coming again next
+year. This is a great indicator that our community -- which is what it
+is all about -- is successfully growing.  When asked in a free form
+way what they liked most about the conference 41% responded indicated
+that it was the community that made SciPy valuable to them.&lt;/p&gt;
+&lt;p&gt;However, as we all know, just putting a bunch of like-minded people in
+a room together doesn't always work out.  So why did it work out here?
+In the responder's own words:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"The great community and giving it a space to meet and make their own."&lt;/p&gt;
+&lt;p&gt;"The atmosphere; instead of the confrontational, antagonistic
+ atmosphere of academia, SciPy felt like everyone was in this
+ together."&lt;/p&gt;
+&lt;p&gt;"It's size made it very manageable, I felt like I was actually able
+ to interact with people (which is harder at bigger conferences)."&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am inclined to believe that our fantastic atmosphere is a function
+of the belief in openness that many of the conference goers share.  As
+one survey responder put it "the overall openness and enthusiasm to
+share" is something that makes SciPy a very generous place.&lt;/p&gt;
+&lt;p&gt;Are there things we can do better?  Of course. Will we endeavor to
+address these issues as best we can for next year? You bet!  And in
+that spirit, we will be be releasing the anonymized results of the
+survey.  Feel free to take a gander.&lt;/p&gt;
+&lt;p&gt;Overall though, this was truly a superb year for SciPy.
+Congratulations all around, especially to the sponsors and organizers,
+and most especially to the attendees!&lt;/p&gt;</content><category term="SciPy"></category></entry></feed>
