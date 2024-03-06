@@ -73,6 +73,17 @@ $ ls theme
 tuxlite_zfs
 ```
 
+## Update Dependencies
+
+There's a Make target to update dependencies:
+
+```
+$ make update-deps
+```
+
+It'll read dependencies from `pyproject.toml` and update the `requirements.txt`
+file with the latest version.
+
 ## Contact
 
 The site is collaboratively edited by the SciPy Organizers.  Please
