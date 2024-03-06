@@ -6,5 +6,5 @@ build-backend = "hatchling.build"
 name = "conference_scipy"
 classifiers = ["Private :: Do Not Upload"]
 version = "0"
-dependencies = ["markdown", "pelican"]
+dependencies = ["markdown", "pelican", "ghp-import"]
 
