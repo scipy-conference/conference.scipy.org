@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "conference_scipy"
+classifiers = ["Private :: Do Not Upload"]
+version = "0"
+dependencies = ["markdown", "pelican"]
+

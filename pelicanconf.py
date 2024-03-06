@@ -1,32 +1,31 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
 import os
 
-AUTHOR = u'SciPy Organizers <scipy-organizers@scipy.org>'
-SITENAME = u'SciPy Conferences'
-SITEURL = ''
 
-TIMEZONE = 'US/Central'
-DEFAULT_LANG = u'en'
+AUTHOR = "SciPy Organizers <scipy-organizers@scipy.org>"
+SITENAME = "SciPy Conferences"
+SITEURL = ""
+
+TIMEZONE = "US/Central"
+DEFAULT_LANG = "en"
 
 USE_FOLDER_AS_CATEGORY = True
 
 # Set the article URL
-ARTICLE_URL = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = "news/{date:%Y}/{date:%m}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = "news/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 
 # Title menu options
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [('Home', '/'),
-             ('Past Conferences', '/past.html'),
-             ('Proceedings', '/proceedings'),
-             ('News', '/archives.html')]
-             
+MENUITEMS = [
+    ("Home", "/"),
+    ("Past Conferences", "/past.html"),
+    ("Proceedings", "/proceedings"),
+    ("News", "/archives.html"),
+]
+
 NEWEST_FIRST_ARCHIVES = False
 
- # Theme
+# Theme
 THEME_DIR = os.path.join(os.getcwd(), "theme")
 THEME_NAME = "tuxlite_zf"
 THEME = os.path.join(THEME_DIR, THEME_NAME)
@@ -45,12 +44,12 @@ TRANSLATION_FEED_ATOM = None
 #           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
+# SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 5
 
-STATIC_PATHS = ['images', 'pdf', 'CNAME', 'proceedings']
+STATIC_PATHS = ["images", "pdf", "CNAME", "proceedings"]
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
