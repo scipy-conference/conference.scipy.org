@@ -21,7 +21,7 @@ Save_as: proceedings/index.html
  *18th Python in Science Conference - Austin, Texas (July 8–14, 2019)*
 
 **[SciPy 2018](https://conference.scipy.org/proceedings/scipy2018)**
- *17th Python in Science Conference - Austin, Texas (July 9–5, 2018)*
+ *17th Python in Science Conference - Austin, Texas (July 9–15, 2018)*
 
 **[SciPy 2017](https://conference.scipy.org/proceedings/scipy2017)**
  *16th Python in Science Conference - Austin, Texas (July 10–16, 2017)*
