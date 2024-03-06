@@ -46,5 +46,5 @@ jobs:
             git config user.email "actions@users.noreply.github.com"
             timestamp=$(date -u +%FT%T%z)
             ghp-import -m "Generate Pelican site ${timestamp}" --no-history --branch gh-pages  output
-            git push --force-with-lease origin gh-pages
+            git push --force origin gh-pages
         
