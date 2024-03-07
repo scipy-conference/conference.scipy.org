@@ -3,22 +3,18 @@ name: Deploy to GitHub Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches: ["main"]
+
+  # Ensure the docs build on PR
+  pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   # Build job
@@ -28,9 +24,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -38,16 +31,42 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: make install
+        run: make init
 
       - name: Build website
         run: make clean && make publish
 
-      - name: Commit output to gh-pages branch
+      - name: Fix permissions if needed
         run: |
-            git config user.name "Automated"
-            git config user.email "actions@users.noreply.github.com"
-            timestamp=$(date -u +%FT%T%z)
-            ghp-import -m "Generate Pelican site ${timestamp}" --no-history --branch gh-pages  output
-            git push origin gh-pages
-        
+          chmod -c -R +rX "output/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'output/'
+
+  deploy:
+    name: Deploy to GitHub Pages
+    # Deploy on push event to main or with any branch and workflow dispatch
+    if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event_name == 'workflow_dispatch'
+    needs: build
+    # Set permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
