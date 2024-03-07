@@ -6,7 +6,7 @@ Save_as: proceedings/index.html
 **[https://doi.org/10.25080/issn.2575-9752](https://doi.org/10.25080/issn.2575-9752)**
 
 **[SciPy 2023](https://conference.scipy.org/proceedings/scipy2023)**
- *22nd Python in Science Conference - Austin, Texas (July 10—16, 2023)*
+ *22nd Python in Science Conference - Austin, Texas (July 10–16, 2023)*
 
 **[SciPy 2022](https://conference.scipy.org/proceedings/scipy2022)**
  *21st Python in Science Conference - Austin, Texas (July 11–17, 2022)*
