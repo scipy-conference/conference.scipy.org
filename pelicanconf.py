@@ -7,6 +7,7 @@ SITEURL = ""
 
 TIMEZONE = "US/Central"
 DEFAULT_LANG = "en"
+DEFAULT_DATE = 'fs'  # Use filesystem timestamp
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -50,6 +51,7 @@ TRANSLATION_FEED_ATOM = None
 DEFAULT_PAGINATION = 5
 
 STATIC_PATHS = ["images", "pdf", "CNAME", "proceedings"]
+STATIC_EXCLUDE_SOURCES = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
