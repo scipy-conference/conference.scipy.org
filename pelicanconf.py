@@ -20,7 +20,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ("Home", "/"),
     ("Past Conferences", "/past.html"),
-    ("Proceedings", "/proceedings"),
+    ("Proceedings", "https://proceedings.scipy.org/"),
     ("News", "/archives.html"),
 ]
 
