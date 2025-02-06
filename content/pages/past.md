@@ -2,6 +2,9 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+## 2025
+* [SciPyData Japan 2025](https://scipydata.connpass.com/)
+
 ## 2024
 * [SciPy 2024](https://www.scipy2024.scipy.org/) 
 * [EuroSciPy 2024](https://euroscipy.org/2024/)
