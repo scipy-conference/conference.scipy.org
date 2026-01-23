@@ -2,6 +2,10 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+## 2025
+* [SciPy 2025](https://www.scipy2025.scipy.org/) 
+* [EuroSciPy 2025](https://archive.euroscipy.org/2025/)
+
 ## 2024
 * [SciPy 2024](https://www.scipy2024.scipy.org/) 
 * [EuroSciPy 2024](https://euroscipy.org/2024/)
