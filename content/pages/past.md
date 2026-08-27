@@ -2,17 +2,21 @@ Title: Past Conferences
 URL: past.html
 Save_as: past.html
 
+## 2026
+* [SciPy 2026](https://scipy2026.scipy.org/)
+* [EuroSciPy 2026](https://euroscipy.org/2026)
+
 ## 2025
-* [SciPy 2025](https://www.scipy2025.scipy.org/) 
+* [SciPy 2025](https://www.scipy2025.scipy.org/)
 * [EuroSciPy 2025](https://archive.euroscipy.org/2025/)
 * [SciPyData Japan 2025](https://scipydata.connpass.com/)
 
 ## 2024
-* [SciPy 2024](https://www.scipy2024.scipy.org/) 
+* [SciPy 2024](https://www.scipy2024.scipy.org/)
 * [EuroSciPy 2024](https://euroscipy.org/2024/)
 
 ## 2023
-* [SciPy 2023](https://www.scipy2023.scipy.org/) 
+* [SciPy 2023](https://www.scipy2023.scipy.org/)
 * [EuroSciPy 2023](https://euroscipy.org/2023/)
 
 ## 2022
