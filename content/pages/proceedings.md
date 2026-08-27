@@ -5,6 +5,9 @@ Save_as: proceedings/index.html
 **ISSN: 2575-9752**
 **[https://doi.org/10.25080/issn.2575-9752](https://doi.org/10.25080/issn.2575-9752)**
 
+**[SciPy 2025](https://proceedings.scipy.org/2025)**
+ *24th Python in Science Conference - Tacoma, Washington (July 7-13, 2025)*
+
 **[SciPy 2024](https://proceedings.scipy.org/2024)**
  *23rd Python in Science Conference - Tacoma, Washington (July 8-14, 2024)*
  
