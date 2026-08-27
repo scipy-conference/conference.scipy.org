@@ -16,7 +16,7 @@ idna==3.15
     # via anyio
 jinja2==3.1.6
     # via pelican
-markdown==3.5.2
+markdown==3.8.1
     # via conference_scipy (pyproject.toml)
 markdown-it-py==3.0.0
     # via rich
