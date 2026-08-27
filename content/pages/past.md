@@ -5,6 +5,7 @@ Save_as: past.html
 ## 2025
 * [SciPy 2025](https://www.scipy2025.scipy.org/) 
 * [EuroSciPy 2025](https://archive.euroscipy.org/2025/)
+* [SciPyData Japan 2025](https://scipydata.connpass.com/)
 
 ## 2024
 * [SciPy 2024](https://www.scipy2024.scipy.org/) 
